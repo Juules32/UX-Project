@@ -1,0 +1,59 @@
+.topmenu {
+    padding: 10px;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    z-index: 4;
+    background-color: lightgray;
+    height: 100px;
+    width: 100%;
+}
+
+.navbutton {
+    margin: 5px;
+    margin-top: 15px;
+    height: 48px;
+    width: 19%;
+}
+
+.logo {
+    position: fixed;
+    top: 20px;
+    left: 100px;
+    transform: translateX(-50%);
+    width: 110px;
+}
+
+.bottom-div {
+    z-index: 5;
+    position: fixed;
+    bottom: 100px;
+
+}
+
+.bottom-button {
+    position: inherit;
+    left: 20%;
+}
+
+.l-1 {
+    left: 20%;
+    width: 15%;
+}
+
+.l-2 {
+    left: 50%;
+    width: 30%;
+    transform: translateX(-50%);
+}
+
+
+.l-3 {
+    left: 80%;
+    width: 130px;
+    transform: translateX(-100%);
+}
+
+.bigger {
+    width: auto;
+}

@@ -1,0 +1,51 @@
+{
+    "numberOfUsers": 3,
+    "users": [
+        {
+            "name": "abc",
+            "mail": "abc@dej.com",
+            "password": "hejsa123",
+            "type": "Student",
+            "bookings": [
+                {
+                    "roomid": 7,
+                    "start": 11,
+                    "end": 12
+                },
+                {
+                    "roomid": 6,
+                    "start": 11,
+                    "end": 14
+                },
+                {
+                    "roomid": 8,
+                    "start": 11,
+                    "end": 12
+                }
+            ],
+            "userid": 0
+        },
+        {
+            "name": "Benny Juico Jensen",
+            "mail": "Bamsehulsen@gmail.com",
+            "password": "Bennyersej",
+            "type": "Teacher",
+            "bookings": [],
+            "userid": 1
+        },
+        {
+            "name": "Ponyo",
+            "mail": "Ponyo@hotmail.com",
+            "password": "ilikefish",
+            "type": "Other",
+            "bookings": [
+                {
+                    "roomid": 2,
+                    "start": 10,
+                    "end": 13
+                }
+            ],
+            "userid": 2
+        }
+    ]
+}

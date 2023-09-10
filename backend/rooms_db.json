@@ -1,0 +1,516 @@
+{
+    "rooms": [
+        {
+            "roomid": 0,
+            "name": "3A12",
+            "type": "Exercise room",
+            "capacity": "30",
+            "audioVideo": true,
+            "blackboard": true,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 1,
+            "name": "Aud1",
+            "type": "Auditorium",
+            "capacity": "150",
+            "audioVideo": true,
+            "blackboard": true,
+            "teacherOnly": true,
+            "bookings": []
+        },
+        {
+            "roomid": 2,
+            "name": "Aud0",
+            "type": "Auditorium",
+            "capacity": "200",
+            "audioVideo": true,
+            "blackboard": true,
+            "teacherOnly": true,
+            "bookings": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "roomid": 3,
+            "name": "Aud2",
+            "type": "Auditorium",
+            "capacity": "100",
+            "audioVideo": true,
+            "blackboard": true,
+            "teacherOnly": true,
+            "bookings": []
+        },
+        {
+            "roomid": 4,
+            "name": "Aud3",
+            "type": "Auditorium",
+            "capacity": "60",
+            "audioVideo": true,
+            "blackboard": true,
+            "teacherOnly": true,
+            "bookings": []
+        },
+        {
+            "roomid": 5,
+            "name": "Aud4",
+            "type": "Auditorium",
+            "capacity": "60",
+            "audioVideo": true,
+            "blackboard": true,
+            "teacherOnly": true,
+            "bookings": []
+        },
+        {
+            "roomid": 6,
+            "name": "2A12",
+            "type": "Exercise room",
+            "capacity": "30",
+            "audioVideo": true,
+            "blackboard": true,
+            "teacherOnly": false,
+            "bookings": [
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "roomid": 7,
+            "name": "2A14",
+            "type": "Exercise room",
+            "capacity": "30",
+            "audioVideo": true,
+            "blackboard": true,
+            "teacherOnly": false,
+            "bookings": [
+                11
+            ]
+        },
+        {
+            "roomid": 8,
+            "name": "2A52",
+            "type": "Exercise room",
+            "capacity": "30",
+            "audioVideo": true,
+            "blackboard": true,
+            "teacherOnly": false,
+            "bookings": [
+                11
+            ]
+        },
+        {
+            "roomid": 9,
+            "name": "2A54",
+            "type": "Exercise room",
+            "capacity": "30",
+            "audioVideo": true,
+            "blackboard": true,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 10,
+            "name": "2A8",
+            "type": "Meeting room",
+            "capacity": "8",
+            "audioVideo": false,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 12,
+            "name": "2A20",
+            "type": "Meeting room",
+            "capacity": "8",
+            "audioVideo": false,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 11,
+            "name": "2A50",
+            "type": "Meeting room",
+            "capacity": "8",
+            "audioVideo": false,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 13,
+            "name": "3A14",
+            "type": "Exercise room",
+            "capacity": "30",
+            "audioVideo": true,
+            "blackboard": true,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 14,
+            "name": "3A52",
+            "type": "Exercise room",
+            "capacity": "30",
+            "audioVideo": true,
+            "blackboard": true,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 15,
+            "name": "3A54",
+            "type": "Exercise room",
+            "capacity": "30",
+            "audioVideo": true,
+            "blackboard": true,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 16,
+            "name": "3A8",
+            "type": "Meeting room",
+            "capacity": "8",
+            "audioVideo": false,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 17,
+            "name": "3A18",
+            "type": "Meeting room",
+            "capacity": "8",
+            "audioVideo": false,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 18,
+            "name": "3A20",
+            "type": "Meeting room",
+            "capacity": "8",
+            "audioVideo": false,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 19,
+            "name": "4A14",
+            "type": "Exercise room",
+            "capacity": "30",
+            "audioVideo": true,
+            "blackboard": true,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 20,
+            "name": "4A16",
+            "type": "Exercise room",
+            "capacity": "30",
+            "audioVideo": true,
+            "blackboard": true,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 21,
+            "name": "4A58",
+            "type": "Exercise room",
+            "capacity": "20",
+            "audioVideo": true,
+            "blackboard": true,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 22,
+            "name": "4A10",
+            "type": "Meeting room",
+            "capacity": "6",
+            "audioVideo": false,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 23,
+            "name": "4A20",
+            "type": "Meeting room",
+            "capacity": "8",
+            "audioVideo": false,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 24,
+            "name": "4A22",
+            "type": "Meeting room",
+            "capacity": "8",
+            "audioVideo": false,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 25,
+            "name": "4A54",
+            "type": "Meeting room",
+            "capacity": "10",
+            "audioVideo": false,
+            "blackboard": true,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 26,
+            "name": "5A14",
+            "type": "Exercise room",
+            "capacity": "30",
+            "audioVideo": true,
+            "blackboard": true,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 27,
+            "name": "5A16",
+            "type": "Exercise room",
+            "capacity": "30",
+            "audioVideo": true,
+            "blackboard": true,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 28,
+            "name": "5A60",
+            "type": "Exercise room",
+            "capacity": "25",
+            "audioVideo": true,
+            "blackboard": true,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 29,
+            "name": "5A10",
+            "type": "Meeting room",
+            "capacity": "6",
+            "audioVideo": false,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 30,
+            "name": "5A54",
+            "type": "Meeting room",
+            "capacity": "10",
+            "audioVideo": false,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 31,
+            "name": "2A1",
+            "type": "Skybox",
+            "capacity": "16",
+            "audioVideo": true,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 32,
+            "name": "2A3",
+            "type": "Skybox",
+            "capacity": "6",
+            "audioVideo": true,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 33,
+            "name": "2A5",
+            "type": "Skybox",
+            "capacity": "10",
+            "audioVideo": true,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 34,
+            "name": "2A7",
+            "type": "Skybox",
+            "capacity": "6",
+            "audioVideo": true,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 35,
+            "name": "3A1",
+            "type": "Skybox",
+            "capacity": "8",
+            "audioVideo": true,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 36,
+            "name": "3A3",
+            "type": "Skybox",
+            "capacity": "8",
+            "audioVideo": true,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 37,
+            "name": "3A5",
+            "type": "Skybox",
+            "capacity": "6",
+            "audioVideo": true,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 38,
+            "name": "3A7",
+            "type": "Skybox",
+            "capacity": "12",
+            "audioVideo": true,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 39,
+            "name": "4A1",
+            "type": "Skybox",
+            "capacity": "10",
+            "audioVideo": true,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 40,
+            "name": "4A3",
+            "type": "Skybox",
+            "capacity": "6",
+            "audioVideo": true,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 41,
+            "name": "4A5",
+            "type": "Skybox",
+            "capacity": "10",
+            "audioVideo": true,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 42,
+            "name": "4A7",
+            "type": "Skybox",
+            "capacity": "6",
+            "audioVideo": true,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 43,
+            "name": "4A9",
+            "type": "Skybox",
+            "capacity": "6",
+            "audioVideo": true,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 44,
+            "name": "5A1",
+            "type": "Skybox",
+            "capacity": "8",
+            "audioVideo": true,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 45,
+            "name": "5A3",
+            "type": "Skybox",
+            "capacity": "6",
+            "audioVideo": true,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 46,
+            "name": "5A5",
+            "type": "Skybox",
+            "capacity": "8",
+            "audioVideo": true,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 47,
+            "name": "5A7",
+            "type": "Skybox",
+            "capacity": "6",
+            "audioVideo": true,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 48,
+            "name": "5A9",
+            "type": "Skybox",
+            "capacity": "8",
+            "audioVideo": true,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        },
+        {
+            "roomid": 49,
+            "name": "2A18",
+            "type": "Meeting room",
+            "capacity": "8",
+            "audioVideo": false,
+            "blackboard": false,
+            "teacherOnly": false,
+            "bookings": []
+        }
+    ]
+}

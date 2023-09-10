@@ -1,0 +1,11 @@
+.sort-parent {
+    position: fixed;
+    top: 100px;
+    left: 0;
+    height: 100%;
+    width: 200px;
+}
+
+.children>* {
+    margin: 10px 0px;
+}

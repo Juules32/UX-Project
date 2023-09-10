@@ -1,0 +1,14 @@
+.title-shadow {
+    z-index: 1;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.pos {
+    /*Necessary such that img container doesn't overlap with other items*/
+    height: 50px;
+    z-index: 0;
+}
+
+.vis {
+    z-index: 1;
+}
